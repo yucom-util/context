@@ -1,0 +1,22 @@
+{
+  "name": "@yucom/context",
+  "version": "0.1.1",
+  "description": "Request context for web applications",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yucom/context.git"
+  },
+  "keywords": [],
+  "author": "llobeto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yucom/context/issues"
+  },
+  "homepage": "https://github.com/yucom/context#readme",
+  "dependencies": {
+    "express-http-context": "*"
+  }
+}
